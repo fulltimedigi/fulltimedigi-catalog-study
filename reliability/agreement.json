@@ -1,0 +1,65 @@
+{
+ "description": {
+  "n": 48,
+  "unclear": 2,
+  "agreement": 0.854,
+  "kappa": 0.708,
+  "keep": true
+ },
+ "images": {
+  "n": 48,
+  "unclear": 2,
+  "agreement": 0.688,
+  "kappa": 0.302,
+  "keep": false
+ },
+ "options": {
+  "n": 48,
+  "unclear": 2,
+  "agreement": 0.604,
+  "kappa": 0.296,
+  "keep": false
+ },
+ "category": {
+  "n": 48,
+  "unclear": 2,
+  "agreement": 0.583,
+  "kappa": 0.155,
+  "keep": false
+ },
+ "price": {
+  "n": 48,
+  "unclear": 2,
+  "agreement": 0.938,
+  "kappa": 0.538,
+  "keep": true
+ },
+ "availability": {
+  "n": 48,
+  "unclear": 2,
+  "agreement": 0.917,
+  "kappa": 0.294,
+  "keep": true
+ },
+ "reviews": {
+  "n": 48,
+  "unclear": 2,
+  "agreement": 0.812,
+  "kappa": 0.613,
+  "keep": true
+ },
+ "brand": {
+  "n": 47,
+  "unclear": 3,
+  "agreement": 0.915,
+  "kappa": 0.725,
+  "keep": true
+ },
+ "shipping_returns": {
+  "n": 48,
+  "unclear": 2,
+  "agreement": 0.792,
+  "kappa": 0.271,
+  "keep": false
+ }
+}

@@ -1,0 +1,41 @@
+{
+  "stores_collected": 592,
+  "stores_measured": 380,
+  "stores_in_release": 366,
+  "pages_measured": 1879,
+  "pages_in_release": 1783,
+  "by_platform": {
+    "salla": 126,
+    "shopify": 66,
+    "zid": 174
+  },
+  "fields_kept": [
+    "description",
+    "price",
+    "availability",
+    "reviews",
+    "brand"
+  ],
+  "fields_as_columns": [
+    "description",
+    "reviews",
+    "brand"
+  ],
+  "inclusion_criterion": "price and availability both present on the page",
+  "fields_dropped": [
+    "category",
+    "images",
+    "options",
+    "shipping_returns"
+  ],
+  "median_desc_words": 35,
+  "pages_under_40_words_pct": 52.8,
+  "pages_under_10_words_pct": 21.4,
+  "brand_missing_pct": 79.0,
+  "reviews_missing_pct": 28.0,
+  "median_desc_words_by_platform": {
+    "salla": 103,
+    "shopify": 45,
+    "zid": 26
+  }
+}
